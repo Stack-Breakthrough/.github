@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-1. 🙋‍♀️ We a small group working on interesting projects together / skill building.
+1. 🙋‍♀️ We a small group of programmers collaborating on interesting projects together & skill building.
 
-2. 🌈 We need the GitHub community to help us with suggestions for projects and tools.
+2. 🌈 We need the GitHub community to help us with suggestions and tools.
 
 3. 👩‍💻 We are working on setting up docs.
 
