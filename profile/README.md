@@ -8,4 +8,4 @@
 
 4. 🍿 Python for breakfast?
 
-5. 🧙 Here's a cool link [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+5. 🧙 Here's a cool link: [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
